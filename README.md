@@ -1,6 +1,6 @@
 # auto_git_tool  
 ## ディレクトリ
-・auto_git_tool.shは  
+・auto_git_tool.sh  
 
 ```
 /usr/bin/auto_git_tool.sh  
