@@ -12,6 +12,12 @@
 /etc/systemd/system/auto_git_tool.service  
 ``` 
 
+・wsl.confは
+
+```
+/etc/wsl.conf
+```
+
 ## 使い方メモ  
 ### 初めに  
 systemctlコマンドを使えるようにする為、  
