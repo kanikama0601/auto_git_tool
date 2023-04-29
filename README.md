@@ -57,6 +57,13 @@ ps -ae
 kanikama0601の部分を好きなユーザー名に変更する  
 for_testの部分はgit cloneでできたフォルダに設定する  
 (この際、"auto commit"を弄るとコミットの際のコメントを変更できる)  
+完了したら
+ 
+```
+chmod +x auto_git_tool.sh
+```
+ 
+で権限を変更
 <br>
 2.auto_git_tool.serviceのファイルの中身を開き、  
 User=　とGroup=　を適したユーザーに変更  
