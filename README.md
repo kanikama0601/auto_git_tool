@@ -6,16 +6,16 @@
 /usr/bin/auto_git_tool.sh  
 ```
 
-・auto_git_tool.serviceは
+・auto_git_tool.service  
   
 ```
 /etc/systemd/system/auto_git_tool.service  
 ``` 
 
-・wsl.confは
+・wsl.conf  
 
 ```
-/etc/wsl.conf
+/etc/wsl.conf  
 ```
 
 ## 使い方メモ  
