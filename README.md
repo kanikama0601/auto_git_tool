@@ -44,7 +44,13 @@ systemd=true
 wsl --shutdown
 ```
 
-を入力し、Ubuntuを起動
+を入力し、Ubuntuを起動  
+
+```
+ps -ae
+```
+
+でsystemctlが1のとこにあるか確認  
 
 ### 導入方法
 1.auto_git_tool.shのファイルの中身を開き、  
