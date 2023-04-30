@@ -1,4 +1,6 @@
 # auto_git_tool  
+より便利な派生シェルスクリプトを以下に作ってます  
+https://github.com/kanikama0601/auto_git_tool_shell  
 ## ディレクトリ
 ・auto_git_tool.sh  
 
